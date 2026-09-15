@@ -4,12 +4,16 @@
 
 ### Software Developer | Aspiring Software Architect & Security Engineer
 
-I enjoy building **secure, scalable, and well-structured software systems** while continuously learning more about **software architecture, backend engineering, cybersecurity, and infrastructure**.
+Building, learning, and exploring software engineering with a focus on  
+**backend systems, software architecture, and application security.**
 
-<br/>
+<br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=iyadeh\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/iyadeh)
-[![GitHub followers](https://img.shields.io/github/followers/iyadeh?label=Followers\&style=flat)](https://github.com/iyadeh?tab=followers)
+<a href="mailto:prayogarga01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-prayogarga01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=iyadeh&label=Profile%20Views&style=flat-square" alt="Profile Views">
 
 </div>
 
@@ -17,14 +21,18 @@ I enjoy building **secure, scalable, and well-structured software systems** whil
 
 ## 👨‍💻 About Me
 
-* 💻 I'm a **Software Developer** interested in building modern web applications and backend systems.
-* 🏗️ I'm currently deepening my knowledge of **Software Architecture** and **System Design**.
-* 🔐 I'm actively learning **Application Security, Cybersecurity, and Secure Software Engineering**.
-* ⚙️ I enjoy working across the stack, from **frontend and backend development to databases, containers, and infrastructure**.
-* 🧠 I like understanding not only *how to write code*, but also **how and why software systems work**.
-* 🧪 I enjoy building projects related to **security tooling, observability, access control, file sharing, and developer infrastructure**.
-* 📚 I'm continuously improving my knowledge through hands-on projects, labs, documentation, and technical research.
-* 📫 Reach me at **[prayogarga01@gmail.com](mailto:prayogarga01@gmail.com)**
+I'm a **Software Developer** who enjoys learning how software works beyond just writing code.
+
+My current focus is expanding from application development into
+**backend engineering, software architecture, system design, and security engineering**.
+
+- 💻 Building full-stack and backend-oriented applications
+- 🏗️ Learning Software Architecture and System Design
+- 🔐 Exploring Application Security and Secure Software Engineering
+- ⚙️ Learning infrastructure, containers, networking, and deployment
+- 🧠 Interested in understanding how software systems work end-to-end
+- 📚 Continuously learning through projects, labs, and technical documentation
+- 📫 Reach me at **prayogarga01@gmail.com**
 
 ---
 
@@ -33,118 +41,126 @@ I enjoy building **secure, scalable, and well-structured software systems** whil
 ```text
 Software Engineering
 ├── Backend Engineering
-├── Software Architecture
-├── System Design
 ├── API Design
 ├── Database Design
-└── Distributed Systems Fundamentals
+├── Software Architecture
+└── System Design
 
 Security Engineering
 ├── Application Security
-├── Web Security
 ├── Authentication & Authorization
 ├── Secure Coding
 ├── Threat Modeling
-└── Security Testing
+└── Web Security
 
 Infrastructure
 ├── Docker
 ├── Linux
+├── Networking
 ├── Nginx
-├── Git / GitHub
-└── CI/CD Fundamentals
+└── Git / GitHub
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Technologies
 
 ### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,java,js,ts,html,css,bash" />
+<p>
+  <img src="https://skillicons.dev/icons?i=go,java,js,ts,bash,html,css" alt="Programming Languages">
 </p>
 
 ### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Technologies">
 </p>
 
-### Backend & Runtime
+### Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,go,java" />
+<p>
+  <img src="https://skillicons.dev/icons?i=go,nodejs" alt="Backend Technologies">
 </p>
 
-### Databases
+### Databases & Services
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="Databases">
 </p>
 
-### DevOps & Infrastructure
+### Infrastructure & DevOps
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" alt="Infrastructure and DevOps">
 </p>
 
-### Tools
+### Development Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="Development Tools">
 </p>
 
 ---
 
-## 🔐 Security Interests
+## 🚀 Featured Projects
 
-I am particularly interested in the intersection between **software engineering and cybersecurity**.
+### 🔐 VaultShare
+
+A secure file-sharing application focused on controlled file access,
+sharing workflows, and secure application design.
+
+**Focus:** `Application Security` `Backend Engineering` `Secure File Sharing`
+
+---
+
+### 🛡️ PolicyGate
+
+A project focused on exploring authorization, policy enforcement,
+and backend architecture.
+
+**Focus:** `Authorization` `Access Control` `Backend Architecture`
+
+---
+
+### 🔎 TraceShield
+
+A security-focused observability project for exploring services,
+relationships, traces, and security-relevant behavior.
+
+**Focus:** `Observability` `Security Monitoring` `Distributed Systems`
+
+---
+
+### 🗺️ AttackMap
+
+A software architecture and attack-surface visualization project
+focused on understanding relationships between system components
+and their associated security risks.
+
+**Focus:** `Software Architecture` `Threat Modeling` `Application Security`
+
+---
+
+## 🔐 Engineering Interests
+
+I'm particularly interested in the intersection between
+**software engineering, architecture, and cybersecurity**.
 
 Some areas I'm currently exploring:
 
-* Secure software architecture
-* Web application security
-* Authentication and authorization
-* Identity and access management
-* API security
-* Secure file sharing
-* Threat modeling
-* Security monitoring
-* Vulnerability analysis
-* Security automation
-* Secure coding practices
-* DevSecOps fundamentals
-
----
-
-## 🚀 What I Build
-
-My projects mainly focus on solving practical software engineering and security problems.
-
-```text
-Applications
-│
-├── Secure Web Applications
-├── Developer Tools
-├── Security Tools
-├── Backend Services
-├── Monitoring & Observability Systems
-├── Access Control Systems
-└── Architecture & Infrastructure Tools
-```
-
-Some of the areas represented in my projects include:
-
-* 🔐 Secure file-sharing systems
-* 🛡️ Security monitoring platforms
-* 🗺️ Application architecture & attack-surface visualization
-* 🔑 Authentication and authorization systems
-* 📊 Observability and tracing
-* ⚙️ Backend services and APIs
-* 🧪 Security labs and vulnerability research
-
-> Check my repositories to explore the projects, architecture decisions, implementation details, and documentation.
+- Software Architecture
+- System Design
+- Backend Engineering
+- Application Security
+- API Security
+- Authentication & Authorization
+- Identity and Access Management
+- Threat Modeling
+- Secure Coding
+- Observability
+- Infrastructure
+- DevSecOps
 
 ---
 
@@ -152,71 +168,42 @@ Some of the areas represented in my projects include:
 
 ```text
 Software Architecture
-      │
-      ├── Design Patterns
-      ├── Clean Architecture
-      ├── Domain-Driven Design
-      ├── Distributed Systems
-      └── System Design
-      │
-      ▼
+│
+├── System Design
+├── Design Patterns
+├── Clean Architecture
+└── Distributed Systems
+
 Security Engineering
-      │
-      ├── Application Security
-      ├── Web Security
-      ├── Threat Modeling
-      ├── IAM
-      └── Secure Coding
-      │
-      ▼
+│
+├── Web Application Security
+├── API Security
+├── Authentication & Authorization
+├── Threat Modeling
+└── Secure Coding
+
 Infrastructure
-      │
-      ├── Containers
-      ├── Linux
-      ├── Networking
-      ├── Reverse Proxy
-      └── CI/CD
+│
+├── Docker
+├── Linux
+├── Networking
+├── Reverse Proxy
+└── CI/CD
 ```
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iyadeh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Arga's GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyadeh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Arga's most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=iyadeh&theme=github-dark-blue&hide_border=true" alt="Arga's GitHub streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iyadeh&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophy" />
-
-</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p>
   <a href="mailto:prayogarga01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prayogarga01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-prayogarga01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://github.com/iyadeh">
+    <img src="https://img.shields.io/badge/GitHub-iyadeh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
-I'm always interested in learning, collaborating, and discussing topics around:
-
-**Software Engineering • Software Architecture • Backend Development • Application Security • Cybersecurity**
 
 ---
 
@@ -224,6 +211,8 @@ I'm always interested in learning, collaborating, and discussing topics around:
 
 ### Build. Understand. Secure. Improve.
 
-<sub>Continuously learning how to design and build better software systems.</sub>
+<sub>
+Continuously learning how to design, build, and secure better software systems.
+</sub>
 
 </div>
